@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1083511988102",
+    "project_id": "car-go-df7cb",
+    "storage_bucket": "car-go-df7cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083511988102:android:817eae401c061c69fb5607",
+        "android_client_info": {
+          "package_name": "com.example.car_go"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz3aQXxpdFDKDkgPxx8w954ZE3sOxEhjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
